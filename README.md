@@ -1,5 +1,6 @@
-print1.png - Bibliotecas do instaladas-requirements.txt
-print2.png - SQL com erro
-print3.png - Inconstência de edição do no shell
-print4.png - SQL correta
-print5.png - Validação do código sql no shell
+  print1  - Biblioteca instalada-requissitos.txt
+  print2 - Erro no teste SQL
+  print3 - Inconsistência de validação no Shell
+  print4 - Teste SQL correto
+  print5 - Validação do código SQL no Shell
+  
